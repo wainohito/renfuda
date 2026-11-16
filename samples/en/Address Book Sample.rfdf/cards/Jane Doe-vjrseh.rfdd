@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "vjrsehhh2ronenwdbn4ee7bky7",
+  "template_id": "4ybid5juuot7vzbyjgwifzwg5j",
+  "seq": 1024,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_uowg5t": "Jane Doe",
+    "f_bvdiy7": "",
+    "f_6jq6hz": "00000",
+    "f_gbtrxx": "1 Example Street\nSampletown",
+    "f_2z3z24": "+1 555 0100",
+    "f_246ycg": "jane@example.com",
+    "f_zn4adz": "1980-04-01",
+    "f_2bp3ll": "A sample card."
+  }
+}

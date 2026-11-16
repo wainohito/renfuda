@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "4ddudprrqdo4lf6i5c6tison2z",
+  "template_id": "viu7opsrq6xgcxb3qpxzqssshd",
+  "seq": 2048,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "Moby-Dick",
+    "f_7ujzsc": "Herman Melville",
+    "f_pzeeow": "(sample)",
+    "f_5h6cqz": "",
+    "f_5laign": 12,
+    "f_azrre5": 720,
+    "f_abbh4e": "2026-02-01",
+    "f_ibk3lp": ""
+  }
+}

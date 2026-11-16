@@ -1,0 +1,17 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "xhlvlrmhc3xjzypu7oxs6h3jzq",
+  "template_id": "aw2blkg4vu2l5ypw2zrsggg57a",
+  "seq": 3072,
+  "rev": 1,
+  "created": "2026-10-15T01:42:45Z",
+  "modified": "2026-10-15T01:42:45Z",
+  "values": {
+    "f_tr7qtc": "東海道五十三次 宿場町連札（日本橋）",
+    "f_b6zlba": "歌川派の浮世絵師たちが宿場町をテーマに分担執筆し、ひとつの大きな絵巻のように仕立てた連札。",
+    "f_myuifo": "国立国会図書館",
+    "f_fixxzd": "https://dl.ndl.go.jp/pid/2575059/1/5",
+    "f_q74g3e": "https://dl.ndl.go.jp/pid/2575059/1/5"
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "viu7opsrq6xgcxb3qpxzqssshd",
+  "title": "Books",
+  "rev": 1,
+  "size": {
+    "w": 512,
+    "h": 342
+  },
+  "theme": "beos",
+  "title_part": "f_hwfah7",
+  "parts": [
+    {
+      "id": "l_mdird7",
+      "kind": "label",
+      "rect": [12, 13, 88, 20],
+      "text": "Title"
+    },
+    {
+      "id": "f_hwfah7",
+      "name": "Title",
+      "kind": "text",
+      "rect": [104, 10, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_e5abcx",
+      "kind": "label",
+      "rect": [12, 41, 88, 20],
+      "text": "Author"
+    },
+    {
+      "id": "f_7ujzsc",
+      "name": "Author",
+      "kind": "text",
+      "rect": [104, 38, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_w23atl",
+      "kind": "label",
+      "rect": [12, 69, 88, 20],
+      "text": "Publisher"
+    },
+    {
+      "id": "f_pzeeow",
+      "name": "Publisher",
+      "kind": "text",
+      "rect": [104, 66, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_bnqqt4",
+      "kind": "label",
+      "rect": [12, 97, 88, 20],
+      "text": "ISBN"
+    },
+    {
+      "id": "f_5h6cqz",
+      "name": "ISBN",
+      "kind": "text",
+      "rect": [104, 94, 160, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_elx2tv",
+      "kind": "label",
+      "rect": [12, 125, 88, 20],
+      "text": "Price"
+    },
+    {
+      "id": "f_5laign",
+      "name": "Price",
+      "kind": "number",
+      "rect": [104, 122, 100, 24],
+      "default": null,
+      "decimals": 0
+    },
+    {
+      "id": "l_2mxzvd",
+      "kind": "label",
+      "rect": [12, 153, 88, 20],
+      "text": "Pages"
+    },
+    {
+      "id": "f_azrre5",
+      "name": "Pages",
+      "kind": "number",
+      "rect": [104, 150, 100, 24],
+      "default": null,
+      "decimals": 0
+    },
+    {
+      "id": "l_aj4oko",
+      "kind": "label",
+      "rect": [12, 181, 88, 20],
+      "text": "Purchased"
+    },
+    {
+      "id": "f_abbh4e",
+      "name": "Purchased",
+      "kind": "text",
+      "rect": [104, 178, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_li5jub",
+      "kind": "label",
+      "rect": [12, 209, 88, 20],
+      "text": "Notes"
+    },
+    {
+      "id": "f_ibk3lp",
+      "name": "Notes",
+      "kind": "text",
+      "rect": [104, 206, 396, 82],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_c5la63",
+      "kind": "label",
+      "rect": [372, 12, 88, 20],
+      "text": "Cover"
+    },
+    {
+      "id": "f_czg2eh",
+      "name": "Cover",
+      "kind": "image",
+      "rect": [372, 34, 128, 154],
+      "default": null,
+      "fit": "contain"
+    },
+    {
+      "id": "b_adpdun",
+      "kind": "button",
+      "rect": [152, 302, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_tjje4g",
+      "kind": "counter",
+      "rect": [220, 306, 72, 20]
+    },
+    {
+      "id": "b_bnkqfe",
+      "kind": "button",
+      "rect": [300, 302, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    }
+  ]
+}

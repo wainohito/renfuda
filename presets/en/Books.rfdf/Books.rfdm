@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "sslxcgxca5g5vciskkk2ychuwl",
+  "title": "Books",
+  "default_template": "viu7opsrq6xgcxb3qpxzqssshd",
+  "encryption": null,
+  "preset_description": "Titles, authors, prices, reading notes and cover images of your books."
+}

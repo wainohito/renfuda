@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "jtiwlc5j2y3srcou63gok4xmhz",
+  "template_id": "4ybid5juuot7vzbyjgwifzwg5j",
+  "seq": 2048,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_uowg5t": "John Smith",
+    "f_bvdiy7": "",
+    "f_6jq6hz": "00001",
+    "f_gbtrxx": "2 Example Avenue\nSampleville",
+    "f_2z3z24": "+1 555 0101",
+    "f_246ycg": "john@example.com",
+    "f_zn4adz": "1985-10-10",
+    "f_2bp3ll": ""
+  }
+}

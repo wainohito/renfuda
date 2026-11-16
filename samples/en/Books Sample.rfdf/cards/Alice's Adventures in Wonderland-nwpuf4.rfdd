@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "nwpuf4ilmmpty6zgucxf42mgyr",
+  "template_id": "viu7opsrq6xgcxb3qpxzqssshd",
+  "seq": 3072,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "Alice's Adventures in Wonderland",
+    "f_7ujzsc": "Lewis Carroll",
+    "f_pzeeow": "(sample)",
+    "f_5h6cqz": "",
+    "f_5laign": 7.25,
+    "f_azrre5": 200,
+    "f_abbh4e": "2026-03-10",
+    "f_ibk3lp": "Down the rabbit hole."
+  }
+}

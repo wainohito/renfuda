@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "7zk4uvakjnqnndlctegjeprki3",
+  "template_id": "74ez4ejahuqfl6mi5ltkkvsta5",
+  "seq": 1024,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_uowg5t": "山田 太郎",
+    "f_bvdiy7": "やまだ たろう",
+    "f_6jq6hz": "100-0001",
+    "f_gbtrxx": "東京都千代田区千代田1-1\n(サンプルの住所)",
+    "f_2z3z24": "03-0000-0000",
+    "f_246ycg": "taro@example.com",
+    "f_zn4adz": "1980-04-01",
+    "f_2bp3ll": "サンプルのカードです。"
+  }
+}

@@ -1,0 +1,22 @@
+name			renfuda
+version			@VERSION@
+architecture	x86_64
+summary			"Card database (prototype)"
+description		"Renfuda (連札) is a HyperCard/FileMaker style card database for RenkuOS. Stacks are folders of JSON files. This is a prototype."
+packager		"Renfuda prototype"
+vendor			"Renfuda"
+copyrights		{
+	"2026 Renfuda authors"
+}
+licenses		{
+	"MIT"
+}
+flags			{
+}
+provides		{
+	renfuda = @VERSION@
+	app:renfuda = @VERSION@
+}
+requires		{
+	haiku
+}

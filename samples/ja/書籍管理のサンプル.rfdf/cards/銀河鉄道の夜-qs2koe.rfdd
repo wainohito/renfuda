@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "qs2koeoksyexwhrgqfl2zjygbe",
+  "template_id": "vz5xqxknxcelev3bao2jckff6y",
+  "seq": 3072,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "銀河鉄道の夜",
+    "f_7ujzsc": "宮沢賢治",
+    "f_pzeeow": "(サンプル)",
+    "f_5h6cqz": "",
+    "f_5laign": 500,
+    "f_azrre5": 200,
+    "f_abbh4e": "2026-03-10",
+    "f_ibk3lp": "ジョバンニとカムパネルラの旅。"
+  }
+}

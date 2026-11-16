@@ -1,0 +1,154 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "4qxmz3j76zsens7sp6wvihaqdu",
+  "title": "連札",
+  "rev": 1,
+  "size": {
+    "w": 559,
+    "h": 397
+  },
+  "parts": [
+    {
+      "id": "l_bjgqap",
+      "kind": "label",
+      "rect": [243, 18, 100, 20],
+      "text": "名称"
+    },
+    {
+      "id": "f_7t5ugq",
+      "name": "名称",
+      "kind": "text",
+      "rect": [347, 16, 196, 28],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 16
+        }
+      }
+    },
+    {
+      "id": "l_zgbuip",
+      "kind": "label",
+      "rect": [243, 54, 100, 20],
+      "text": "説明"
+    },
+    {
+      "id": "f_afwwq7",
+      "name": "説明",
+      "kind": "text",
+      "rect": [347, 52, 196, 72],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_csqd6o",
+      "kind": "label",
+      "rect": [243, 135, 100, 20],
+      "text": "収蔵場所"
+    },
+    {
+      "id": "f_4a53sb",
+      "name": "収蔵場所",
+      "kind": "text",
+      "rect": [347, 132, 196, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "f_p7f7fr",
+      "name": "サムネイル",
+      "kind": "image",
+      "rect": [16, 16, 211, 249],
+      "default": null,
+      "fit": "contain",
+      "source": {
+        "field": "f_asxhro",
+        "max_edge": 256
+      },
+      "link": {
+        "field": "f_vogd55"
+      }
+    },
+    {
+      "id": "b_x7aip2",
+      "kind": "button",
+      "rect": [16, 273, 211, 28],
+      "text": "精細画像を開く",
+      "action": "link.open",
+      "link": {
+        "field": "f_vogd55"
+      }
+    },
+    {
+      "id": "f_asxhro",
+      "name": "サムネイルURL",
+      "kind": "text",
+      "rect": [16, 309, 211, 18],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 10,
+          "color": "#808080"
+        }
+      }
+    },
+    {
+      "id": "f_vogd55",
+      "name": "精細画像URL",
+      "kind": "text",
+      "rect": [16, 331, 211, 18],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 10,
+          "color": "#808080"
+        }
+      }
+    },
+    {
+      "id": "b_tfct2x",
+      "kind": "button",
+      "rect": [107, 353, 60, 28],
+      "text": "◀◀",
+      "action": "card.first"
+    },
+    {
+      "id": "b_lwlbvp",
+      "kind": "button",
+      "rect": [175, 353, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_dtnyhm",
+      "kind": "counter",
+      "rect": [243, 357, 72, 20]
+    },
+    {
+      "id": "b_5vmh3j",
+      "kind": "button",
+      "rect": [323, 353, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    },
+    {
+      "id": "b_vmvuju",
+      "kind": "button",
+      "rect": [391, 353, 60, 28],
+      "text": "▶▶",
+      "action": "card.last"
+    }
+  ],
+  "paper": {
+    "size": "A6",
+    "orientation": "landscape"
+  },
+  "theme": "beos",
+  "title_part": "f_7t5ugq",
+  "created": "2026-10-15T01:42:45Z",
+  "modified": "2026-10-15T01:42:45Z"
+}

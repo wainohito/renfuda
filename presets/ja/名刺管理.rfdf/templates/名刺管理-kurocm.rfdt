@@ -1,0 +1,160 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "kurocmy6vdpyndnggfyg275veq",
+  "title": "名刺管理",
+  "rev": 1,
+  "size": {
+    "w": 512,
+    "h": 342
+  },
+  "theme": "beos",
+  "title_part": "f_btd7d6",
+  "parts": [
+    {
+      "id": "l_ai2zvf",
+      "kind": "label",
+      "rect": [12, 13, 88, 20],
+      "text": "氏名"
+    },
+    {
+      "id": "f_btd7d6",
+      "name": "氏名",
+      "kind": "text",
+      "rect": [104, 10, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_icopef",
+      "kind": "label",
+      "rect": [12, 41, 88, 20],
+      "text": "会社名"
+    },
+    {
+      "id": "f_sivju5",
+      "name": "会社名",
+      "kind": "text",
+      "rect": [104, 38, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_f3rp5s",
+      "kind": "label",
+      "rect": [12, 69, 88, 20],
+      "text": "部署・役職"
+    },
+    {
+      "id": "f_64lyzl",
+      "name": "部署・役職",
+      "kind": "text",
+      "rect": [104, 66, 256, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_edpjbf",
+      "kind": "label",
+      "rect": [372, 12, 88, 20],
+      "text": "名刺の画像"
+    },
+    {
+      "id": "f_cbj4pj",
+      "name": "名刺の画像",
+      "kind": "image",
+      "rect": [372, 34, 128, 66],
+      "default": null,
+      "fit": "contain"
+    },
+    {
+      "id": "l_ewzlsb",
+      "kind": "label",
+      "rect": [12, 97, 88, 20],
+      "text": "電話"
+    },
+    {
+      "id": "f_3jxzyi",
+      "name": "電話",
+      "kind": "text",
+      "rect": [104, 94, 200, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_uqdlie",
+      "kind": "label",
+      "rect": [12, 125, 88, 20],
+      "text": "メール"
+    },
+    {
+      "id": "f_lycnzt",
+      "name": "メール",
+      "kind": "text",
+      "rect": [104, 122, 260, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_7pdxre",
+      "kind": "label",
+      "rect": [12, 153, 88, 20],
+      "text": "住所"
+    },
+    {
+      "id": "f_26fjgx",
+      "name": "住所",
+      "kind": "text",
+      "rect": [104, 150, 396, 48],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_qc3v32",
+      "kind": "label",
+      "rect": [12, 207, 88, 20],
+      "text": "受け取った日"
+    },
+    {
+      "id": "f_kmudvp",
+      "name": "受け取った日",
+      "kind": "text",
+      "rect": [104, 204, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_zlon4i",
+      "kind": "label",
+      "rect": [12, 235, 88, 20],
+      "text": "メモ"
+    },
+    {
+      "id": "f_j2ak2k",
+      "name": "メモ",
+      "kind": "text",
+      "rect": [104, 232, 396, 56],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "b_kekfn7",
+      "kind": "button",
+      "rect": [152, 302, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_gqlr4w",
+      "kind": "counter",
+      "rect": [220, 306, 72, 20]
+    },
+    {
+      "id": "b_fxewop",
+      "kind": "button",
+      "rect": [300, 302, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    }
+  ]
+}

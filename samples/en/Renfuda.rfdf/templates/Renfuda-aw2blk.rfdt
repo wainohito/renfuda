@@ -1,0 +1,154 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "aw2blkg4vu2l5ypw2zrsggg57a",
+  "title": "Renfuda",
+  "rev": 1,
+  "size": {
+    "w": 559,
+    "h": 397
+  },
+  "parts": [
+    {
+      "id": "l_uqy2sl",
+      "kind": "label",
+      "rect": [243, 18, 100, 20],
+      "text": "名称"
+    },
+    {
+      "id": "f_tr7qtc",
+      "name": "名称",
+      "kind": "text",
+      "rect": [347, 16, 196, 28],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 16
+        }
+      }
+    },
+    {
+      "id": "l_mwbdei",
+      "kind": "label",
+      "rect": [243, 54, 100, 20],
+      "text": "説明"
+    },
+    {
+      "id": "f_b6zlba",
+      "name": "説明",
+      "kind": "text",
+      "rect": [347, 52, 196, 72],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_cticqw",
+      "kind": "label",
+      "rect": [243, 135, 100, 20],
+      "text": "収蔵場所"
+    },
+    {
+      "id": "f_myuifo",
+      "name": "収蔵場所",
+      "kind": "text",
+      "rect": [347, 132, 196, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "f_rex5xo",
+      "name": "サムネイル",
+      "kind": "image",
+      "rect": [16, 16, 211, 249],
+      "default": null,
+      "fit": "contain",
+      "source": {
+        "field": "f_fixxzd",
+        "max_edge": 256
+      },
+      "link": {
+        "field": "f_q74g3e"
+      }
+    },
+    {
+      "id": "b_rs2dz3",
+      "kind": "button",
+      "rect": [16, 273, 211, 28],
+      "text": "Open 精細画像",
+      "action": "link.open",
+      "link": {
+        "field": "f_q74g3e"
+      }
+    },
+    {
+      "id": "f_fixxzd",
+      "name": "サムネイルURL",
+      "kind": "text",
+      "rect": [16, 309, 211, 18],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 10,
+          "color": "#808080"
+        }
+      }
+    },
+    {
+      "id": "f_q74g3e",
+      "name": "精細画像URL",
+      "kind": "text",
+      "rect": [16, 331, 211, 18],
+      "default": "",
+      "multiline": false,
+      "style": {
+        "font": {
+          "size": 10,
+          "color": "#808080"
+        }
+      }
+    },
+    {
+      "id": "b_qqpudi",
+      "kind": "button",
+      "rect": [107, 353, 60, 28],
+      "text": "◀◀",
+      "action": "card.first"
+    },
+    {
+      "id": "b_agyu3b",
+      "kind": "button",
+      "rect": [175, 353, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_ayyo35",
+      "kind": "counter",
+      "rect": [243, 357, 72, 20]
+    },
+    {
+      "id": "b_3w3oz2",
+      "kind": "button",
+      "rect": [323, 353, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    },
+    {
+      "id": "b_c3ptvx",
+      "kind": "button",
+      "rect": [391, 353, 60, 28],
+      "text": "▶▶",
+      "action": "card.last"
+    }
+  ],
+  "paper": {
+    "size": "A6",
+    "orientation": "landscape"
+  },
+  "theme": "beos",
+  "title_part": "f_tr7qtc",
+  "created": "2026-10-15T01:42:45Z",
+  "modified": "2026-10-15T01:42:45Z"
+}

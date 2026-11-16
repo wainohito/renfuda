@@ -1,0 +1,146 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "74ez4ejahuqfl6mi5ltkkvsta5",
+  "title": "住所録",
+  "rev": 1,
+  "size": {
+    "w": 512,
+    "h": 342
+  },
+  "theme": "beos",
+  "title_part": "f_uowg5t",
+  "parts": [
+    {
+      "id": "l_47sa53",
+      "kind": "label",
+      "rect": [12, 13, 88, 20],
+      "text": "氏名"
+    },
+    {
+      "id": "f_uowg5t",
+      "name": "氏名",
+      "kind": "text",
+      "rect": [104, 10, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_mzlhgm",
+      "kind": "label",
+      "rect": [12, 41, 88, 20],
+      "text": "ふりがな"
+    },
+    {
+      "id": "f_bvdiy7",
+      "name": "ふりがな",
+      "kind": "text",
+      "rect": [104, 38, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_wakp6q",
+      "kind": "label",
+      "rect": [12, 69, 88, 20],
+      "text": "郵便番号"
+    },
+    {
+      "id": "f_6jq6hz",
+      "name": "郵便番号",
+      "kind": "text",
+      "rect": [104, 66, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_5bfr3t",
+      "kind": "label",
+      "rect": [12, 97, 88, 20],
+      "text": "住所"
+    },
+    {
+      "id": "f_gbtrxx",
+      "name": "住所",
+      "kind": "text",
+      "rect": [104, 94, 396, 48],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_ma6mva",
+      "kind": "label",
+      "rect": [12, 151, 88, 20],
+      "text": "電話"
+    },
+    {
+      "id": "f_2z3z24",
+      "name": "電話",
+      "kind": "text",
+      "rect": [104, 148, 200, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_dalyrw",
+      "kind": "label",
+      "rect": [12, 179, 88, 20],
+      "text": "メール"
+    },
+    {
+      "id": "f_246ycg",
+      "name": "メール",
+      "kind": "text",
+      "rect": [104, 176, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_mo34d4",
+      "kind": "label",
+      "rect": [12, 207, 88, 20],
+      "text": "誕生日"
+    },
+    {
+      "id": "f_zn4adz",
+      "name": "誕生日",
+      "kind": "text",
+      "rect": [104, 204, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_bufgt7",
+      "kind": "label",
+      "rect": [12, 235, 88, 20],
+      "text": "メモ"
+    },
+    {
+      "id": "f_2bp3ll",
+      "name": "メモ",
+      "kind": "text",
+      "rect": [104, 232, 396, 56],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "b_l42a2l",
+      "kind": "button",
+      "rect": [152, 302, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_bky5ke",
+      "kind": "counter",
+      "rect": [220, 306, 72, 20]
+    },
+    {
+      "id": "b_gvnznn",
+      "kind": "button",
+      "rect": [300, 302, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    }
+  ]
+}

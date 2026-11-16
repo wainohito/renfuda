@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "5hwf3mfgjsgelasjhqbmmfyyqm",
+  "title": "名刺管理",
+  "default_template": "kurocmy6vdpyndnggfyg275veq",
+  "encryption": null,
+  "preset_description": "受け取った名刺の情報と、名刺の画像を管理します。"
+}

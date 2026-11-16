@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "7z43adot3zzi5fupenmke4zhee",
+  "template_id": "viu7opsrq6xgcxb3qpxzqssshd",
+  "seq": 1024,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "Pride and Prejudice",
+    "f_7ujzsc": "Jane Austen",
+    "f_pzeeow": "(sample)",
+    "f_5h6cqz": "",
+    "f_5laign": 9.5,
+    "f_azrre5": 432,
+    "f_abbh4e": "2026-01-15",
+    "f_ibk3lp": "It is a truth universally acknowledged..."
+  }
+}

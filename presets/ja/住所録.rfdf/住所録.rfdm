@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "k477pibpszgw4jmfn6nbyja7n4",
+  "title": "住所録",
+  "default_template": "74ez4ejahuqfl6mi5ltkkvsta5",
+  "encryption": null,
+  "preset_description": "氏名、住所、電話、メールなどを管理します。"
+}

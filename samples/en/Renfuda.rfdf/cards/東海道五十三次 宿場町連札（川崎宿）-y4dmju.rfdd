@@ -1,0 +1,17 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "y4dmjuhqtpmmxd2kxsbhsxybwq",
+  "template_id": "aw2blkg4vu2l5ypw2zrsggg57a",
+  "seq": 5120,
+  "rev": 1,
+  "created": "2026-10-15T01:42:45Z",
+  "modified": "2026-10-15T01:42:45Z",
+  "values": {
+    "f_tr7qtc": "東海道五十三次 宿場町連札（川崎宿）",
+    "f_b6zlba": "六郷の渡しをモチーフに、当時の名工たちが名前を連ねて贅を尽くした三丁木版の千社札連札。",
+    "f_myuifo": "国立国会図書館",
+    "f_fixxzd": "https://dl.ndl.go.jp/pid/2575059/1/7",
+    "f_q74g3e": "https://dl.ndl.go.jp/pid/2575059/1/7"
+  }
+}

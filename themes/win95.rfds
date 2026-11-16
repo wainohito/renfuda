@@ -1,0 +1,95 @@
+{
+  "bdb": "theme",
+  "format_version": 1,
+  "theme_id": "win95",
+  "rev": 1,
+  "name": {
+    "ja": "Windows 95",
+    "en": "Windows 95"
+  },
+  "description": {
+    "ja": "灰色の面と二重の立体、紺色のアクセント",
+    "en": "Gray panels, double bevels and a navy accent"
+  },
+  "native": false,
+  "colors": {
+    "panel": "#c0c0c0",
+    "text": "#000000",
+    "text_disabled": "#808080",
+    "control_fill": "#ffffff",
+    "control_border": "#000000",
+    "accent": "#000080",
+    "link": "#0000ff",
+    "bevel_light": "#ffffff",
+    "bevel_dark": "#808080",
+    "bevel_darker": "#000000"
+  },
+  "font": {
+    "family": "MS Sans Serif",
+    "style": "Regular",
+    "size": 12
+  },
+  "kinds": {
+    "text": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#ffffff"
+    },
+    "number": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#ffffff"
+    },
+    "bool": {
+      "look": "raised2",
+      "border": {
+        "visible": true,
+        "width": 2
+      }
+    },
+    "image": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      }
+    },
+    "label": {
+      "look": "none"
+    },
+    "button": {
+      "look": "raised2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#c0c0c0",
+      "pressed": "sunken2"
+    },
+    "counter": {
+      "look": "sunken",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#ffffff"
+    },
+    "blank": {
+      "look": "flat",
+      "border": {
+        "visible": true,
+        "width": 1
+      }
+    }
+  },
+  "focus": {
+    "color": "#000080",
+    "width": 1
+  }
+}

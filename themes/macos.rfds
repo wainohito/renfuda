@@ -1,0 +1,97 @@
+{
+  "bdb": "theme",
+  "format_version": 1,
+  "theme_id": "macos",
+  "rev": 1,
+  "name": {
+    "ja": "Mac OS",
+    "en": "Mac OS"
+  },
+  "description": {
+    "ja": "Mac OS 8〜9 の Platinum 風。角丸のボタン",
+    "en": "Platinum style of Mac OS 8-9 with rounded buttons"
+  },
+  "native": false,
+  "colors": {
+    "panel": "#dddddd",
+    "text": "#000000",
+    "text_disabled": "#888888",
+    "control_fill": "#ffffff",
+    "control_border": "#000000",
+    "accent": "#99aadd",
+    "link": "#0000cc",
+    "bevel_light": "#ffffff",
+    "bevel_dark": "#888888",
+    "bevel_darker": "#000000"
+  },
+  "font": {
+    "family": "Charcoal",
+    "style": "Regular",
+    "size": 12
+  },
+  "kinds": {
+    "text": {
+      "look": "sunken",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#ffffff"
+    },
+    "number": {
+      "look": "sunken",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#ffffff"
+    },
+    "bool": {
+      "look": "round",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "radius": 4
+    },
+    "image": {
+      "look": "sunken",
+      "border": {
+        "visible": true,
+        "width": 1
+      }
+    },
+    "label": {
+      "look": "none"
+    },
+    "button": {
+      "look": "round",
+      "pressed": "round",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#eeeeee",
+      "radius": 6
+    },
+    "counter": {
+      "look": "flat",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#ffffff"
+    },
+    "blank": {
+      "look": "flat",
+      "border": {
+        "visible": true,
+        "width": 1
+      }
+    }
+  },
+  "focus": {
+    "color": "#99aadd",
+    "width": 2
+  }
+}

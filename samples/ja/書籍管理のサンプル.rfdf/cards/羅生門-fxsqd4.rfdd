@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "fxsqd4go3cw5m7kzkegnm2a43z",
+  "template_id": "vz5xqxknxcelev3bao2jckff6y",
+  "seq": 2048,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "羅生門",
+    "f_7ujzsc": "芥川龍之介",
+    "f_pzeeow": "(サンプル)",
+    "f_5h6cqz": "",
+    "f_5laign": 400,
+    "f_azrre5": 120,
+    "f_abbh4e": "2026-02-01",
+    "f_ibk3lp": ""
+  }
+}

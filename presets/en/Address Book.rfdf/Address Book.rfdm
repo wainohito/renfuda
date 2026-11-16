@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "4zf4oszrecu7arksnsbpzzxbah",
+  "title": "Address Book",
+  "default_template": "4ybid5juuot7vzbyjgwifzwg5j",
+  "encryption": null,
+  "preset_description": "Names, addresses, phone numbers and e-mail addresses."
+}

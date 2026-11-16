@@ -1,0 +1,146 @@
+{
+  "bdb": "template",
+  "format_version": 1,
+  "template_id": "4ybid5juuot7vzbyjgwifzwg5j",
+  "title": "Address Book",
+  "rev": 1,
+  "size": {
+    "w": 512,
+    "h": 342
+  },
+  "theme": "beos",
+  "title_part": "f_uowg5t",
+  "parts": [
+    {
+      "id": "l_47sa53",
+      "kind": "label",
+      "rect": [12, 13, 88, 20],
+      "text": "Name"
+    },
+    {
+      "id": "f_uowg5t",
+      "name": "Name",
+      "kind": "text",
+      "rect": [104, 10, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_mzlhgm",
+      "kind": "label",
+      "rect": [12, 41, 88, 20],
+      "text": "Reading"
+    },
+    {
+      "id": "f_bvdiy7",
+      "name": "Reading",
+      "kind": "text",
+      "rect": [104, 38, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_wakp6q",
+      "kind": "label",
+      "rect": [12, 69, 88, 20],
+      "text": "Postal code"
+    },
+    {
+      "id": "f_6jq6hz",
+      "name": "Postal code",
+      "kind": "text",
+      "rect": [104, 66, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_5bfr3t",
+      "kind": "label",
+      "rect": [12, 97, 88, 20],
+      "text": "Address"
+    },
+    {
+      "id": "f_gbtrxx",
+      "name": "Address",
+      "kind": "text",
+      "rect": [104, 94, 396, 48],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "l_ma6mva",
+      "kind": "label",
+      "rect": [12, 151, 88, 20],
+      "text": "Phone"
+    },
+    {
+      "id": "f_2z3z24",
+      "name": "Phone",
+      "kind": "text",
+      "rect": [104, 148, 200, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_dalyrw",
+      "kind": "label",
+      "rect": [12, 179, 88, 20],
+      "text": "E-mail"
+    },
+    {
+      "id": "f_246ycg",
+      "name": "E-mail",
+      "kind": "text",
+      "rect": [104, 176, 396, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_mo34d4",
+      "kind": "label",
+      "rect": [12, 207, 88, 20],
+      "text": "Birthday"
+    },
+    {
+      "id": "f_zn4adz",
+      "name": "Birthday",
+      "kind": "text",
+      "rect": [104, 204, 120, 24],
+      "default": "",
+      "multiline": false
+    },
+    {
+      "id": "l_bufgt7",
+      "kind": "label",
+      "rect": [12, 235, 88, 20],
+      "text": "Notes"
+    },
+    {
+      "id": "f_2bp3ll",
+      "name": "Notes",
+      "kind": "text",
+      "rect": [104, 232, 396, 56],
+      "default": "",
+      "multiline": true
+    },
+    {
+      "id": "b_l42a2l",
+      "kind": "button",
+      "rect": [152, 302, 60, 28],
+      "text": "◀",
+      "action": "card.prev"
+    },
+    {
+      "id": "c_bky5ke",
+      "kind": "counter",
+      "rect": [220, 306, 72, 20]
+    },
+    {
+      "id": "b_gvnznn",
+      "kind": "button",
+      "rect": [300, 302, 60, 28],
+      "text": "▶",
+      "action": "card.next"
+    }
+  ]
+}

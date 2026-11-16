@@ -1,0 +1,95 @@
+{
+  "bdb": "theme",
+  "format_version": 1,
+  "theme_id": "nextstep",
+  "rev": 1,
+  "name": {
+    "ja": "NeXTSTEP",
+    "en": "NeXTSTEP"
+  },
+  "description": {
+    "ja": "濃いグレーの面と、黒い外枠の二重の立体",
+    "en": "Dark gray panels with double bevels and black outlines"
+  },
+  "native": false,
+  "colors": {
+    "panel": "#aaaaaa",
+    "text": "#000000",
+    "text_disabled": "#555555",
+    "control_fill": "#ffffff",
+    "control_border": "#000000",
+    "accent": "#333333",
+    "link": "#000088",
+    "bevel_light": "#ffffff",
+    "bevel_dark": "#555555",
+    "bevel_darker": "#000000"
+  },
+  "font": {
+    "family": "Helvetica",
+    "style": "Regular",
+    "size": 12
+  },
+  "kinds": {
+    "text": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#ffffff"
+    },
+    "number": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#ffffff"
+    },
+    "bool": {
+      "look": "raised2",
+      "border": {
+        "visible": true,
+        "width": 2
+      }
+    },
+    "image": {
+      "look": "sunken2",
+      "border": {
+        "visible": true,
+        "width": 2
+      }
+    },
+    "label": {
+      "look": "none"
+    },
+    "button": {
+      "look": "raised2",
+      "border": {
+        "visible": true,
+        "width": 2
+      },
+      "fill": "#aaaaaa",
+      "pressed": "sunken2"
+    },
+    "counter": {
+      "look": "sunken",
+      "border": {
+        "visible": true,
+        "width": 1
+      },
+      "fill": "#cccccc"
+    },
+    "blank": {
+      "look": "flat",
+      "border": {
+        "visible": true,
+        "width": 1
+      }
+    }
+  },
+  "focus": {
+    "color": "#000000",
+    "width": 1
+  }
+}

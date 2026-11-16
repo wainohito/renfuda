@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "asaswju2kz66ijx6auso5ednx4",
+  "template_id": "vz5xqxknxcelev3bao2jckff6y",
+  "seq": 1024,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_hwfah7": "吾輩は猫である",
+    "f_7ujzsc": "夏目漱石",
+    "f_pzeeow": "(サンプル)",
+    "f_5h6cqz": "",
+    "f_5laign": 800,
+    "f_azrre5": 480,
+    "f_abbh4e": "2026-01-15",
+    "f_ibk3lp": "猫の目から見た人間の世界。"
+  }
+}

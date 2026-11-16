@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "745gnwm24kdb56bahoyz56jk3s",
+  "template_id": "74ez4ejahuqfl6mi5ltkkvsta5",
+  "seq": 3072,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_uowg5t": "鈴木 一郎",
+    "f_bvdiy7": "すずき いちろう",
+    "f_6jq6hz": "460-0001",
+    "f_gbtrxx": "愛知県名古屋市中区1-1\n(サンプルの住所)",
+    "f_2z3z24": "052-000-0000",
+    "f_246ycg": "ichiro@example.com",
+    "f_zn4adz": "1990-12-24",
+    "f_2bp3ll": "年賀状を送る"
+  }
+}

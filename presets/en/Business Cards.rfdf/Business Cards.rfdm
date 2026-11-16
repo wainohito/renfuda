@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "yfl7dlpglccy27wok2gpihexqb",
+  "title": "Business Cards",
+  "default_template": "pwvkssptync7l4dgeorcnxrfr5",
+  "encryption": null,
+  "preset_description": "Business cards you received, with a picture of each card."
+}

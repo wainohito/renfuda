@@ -1,0 +1,20 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "zhl3fzkqsjyncedc5ukoewl7sm",
+  "template_id": "74ez4ejahuqfl6mi5ltkkvsta5",
+  "seq": 2048,
+  "rev": 1,
+  "created": "2026-10-15T00:00:00Z",
+  "modified": "2026-10-15T00:00:00Z",
+  "values": {
+    "f_uowg5t": "佐藤 花子",
+    "f_bvdiy7": "さとう はなこ",
+    "f_6jq6hz": "530-0001",
+    "f_gbtrxx": "大阪府大阪市北区梅田1-1\n(サンプルの住所)",
+    "f_2z3z24": "06-0000-0000",
+    "f_246ycg": "hanako@example.com",
+    "f_zn4adz": "1985-10-10",
+    "f_2bp3ll": ""
+  }
+}

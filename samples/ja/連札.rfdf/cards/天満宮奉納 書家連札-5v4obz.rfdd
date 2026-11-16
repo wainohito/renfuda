@@ -1,0 +1,17 @@
+{
+  "bdb": "card",
+  "format_version": 1,
+  "card_id": "5v4obzcgyf2dk2s6sbkztgjic4",
+  "template_id": "4qxmz3j76zsens7sp6wvihaqdu",
+  "seq": 20480,
+  "rev": 1,
+  "created": "2026-10-15T01:42:45Z",
+  "modified": "2026-10-15T01:42:45Z",
+  "values": {
+    "f_7t5ugq": "天満宮奉納 書家連札",
+    "f_afwwq7": "明治から大正にかけて、都内の高名な書道家たちが自らの書体を披露するために奉納した文字中心の連札。",
+    "f_4a53sb": "国立国会図書館",
+    "f_asxhro": "https://dl.ndl.go.jp/pid/2575060/1/7",
+    "f_vogd55": "https://dl.ndl.go.jp/pid/2575060/1/7"
+  }
+}

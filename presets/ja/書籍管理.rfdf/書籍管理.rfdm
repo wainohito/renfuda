@@ -1,0 +1,9 @@
+{
+  "bdb": "manifest",
+  "format_version": 1,
+  "stack_id": "dcbktfsfqylmjeo5hqvqznuhbw",
+  "title": "書籍管理",
+  "default_template": "vz5xqxknxcelev3bao2jckff6y",
+  "encryption": null,
+  "preset_description": "本のタイトル、著者、価格、読書メモ、表紙の画像を管理します。"
+}
